@@ -1,3 +1,5 @@
+//EDITAR ENDPOINT INTEGRADOR
+//var url_base = "http://{ip-del-integrador}:{puerto}/TMTrial/Services/"
 var url_base = "http://127.0.0.1:8080/TMTrial/Services/"
 
 $body = $("body");
